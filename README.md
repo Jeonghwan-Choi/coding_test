@@ -12,3 +12,9 @@ DFS
 
 **기초부터 다시 단계별로 풀어보기**
 20240719
+
+![image](https://github.com/user-attachments/assets/01f85c40-510c-4dcc-9d38-3e737a07ecdc)
+
+![image](https://github.com/user-attachments/assets/64068e6f-b539-4c0c-b3c2-dfaa183ba027)
+
+![image](https://github.com/user-attachments/assets/7b7b1237-3e0f-4ede-bf38-44e8c7bd5a2c)
